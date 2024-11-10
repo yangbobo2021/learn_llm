@@ -1,0 +1,6 @@
+data/
+shakespeare.txt
+shakespeare_processed.txt
+cached_lm_GPT2Tokenizer_128_shakespeare_processed.txt.lock
+cached_lm_GPT2Tokenizer_128_shakespeare_processed.txt
+.DS_Store

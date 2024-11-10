@@ -1,0 +1,1 @@
+"text generate" for Neural Network.

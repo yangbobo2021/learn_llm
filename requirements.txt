@@ -1,0 +1,11 @@
+torch
+numpy
+matplotlib
+scikit-learn
+pandas
+torchvision
+prettytable
+requests
+transformers
+datasets
+accelerate>=0.26.0
